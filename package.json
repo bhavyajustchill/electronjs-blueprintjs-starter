@@ -1,6 +1,6 @@
 {
-  "name": "lead-management",
-  "productName": "lead-management",
+  "name": "electron-blueprintjs-starter",
+  "productName": "electron-blueprintjs-starter",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
